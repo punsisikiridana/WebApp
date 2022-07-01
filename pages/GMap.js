@@ -29,7 +29,7 @@ const GMap = () => {
     { lat: 7.40824, lng: 81.8302, icon: iconList.pedestrianblue },
     { lat: 7.40815, lng: 81.8303, icon: iconList.pedestrianblue },
     { lat: 7.40381, lng: 81.8313, icon: iconList.pedestrianblue },
-    { lat: 7.40097, lng: 81.9321, icon: iconList.pedestrianblue },
+    { lat: 7.40097, lng: 81.8321, icon: iconList.pedestrianblue },
     { lat: 7.39097, lng: 81.8353, icon: iconList.pedestrianblue },
     { lat: 7.38987, lng: 81.8352, icon: iconList.pedestrianblue },
     { lat: 7.38161, lng: 81.838, icon: iconList.pedestrianblue },
@@ -61,7 +61,7 @@ const GMap = () => {
     { lat: 7.21928, lng: 81.8497, icon: iconList.pedestrianyellow },
     { lat: 7.40857, lng: 81.8301, icon: iconList.pedestrianyellow },
     //{ lat: 7.39488, lng: 81.834, icon: iconList.pedestrianyellow },
-    { lat: 7.37705, lng: 81.3888, icon: iconList.pedestrianyellow },
+    //{ lat: 7.37705, lng: 81.3888, icon: iconList.pedestrianyellow },
     { lat: 7.32849, lng: 81.8469, icon: iconList.pedestrianyellow },
     ///////////////////////////////////////////////////////////
     { lat: 7.37608, lng: 81.8391, icon: iconList.roundabout },

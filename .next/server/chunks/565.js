@@ -51,7 +51,7 @@ const GMap = ()=>{
         },
         {
             lat: 7.40097,
-            lng: 81.9321,
+            lng: 81.8321,
             icon: iconList.pedestrianblue
         },
         {
@@ -189,11 +189,7 @@ const GMap = ()=>{
             icon: iconList.pedestrianyellow
         },
         //{ lat: 7.39488, lng: 81.834, icon: iconList.pedestrianyellow },
-        {
-            lat: 7.37705,
-            lng: 81.3888,
-            icon: iconList.pedestrianyellow
-        },
+        //{ lat: 7.37705, lng: 81.3888, icon: iconList.pedestrianyellow },
         {
             lat: 7.32849,
             lng: 81.8469,
